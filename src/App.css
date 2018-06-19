@@ -1,0 +1,12 @@
+.circle {
+    display: inline-block;
+    background: #f00;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+nav {
+    margin-top: 1em;
+    text-align: center;
+}
