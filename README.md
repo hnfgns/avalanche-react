@@ -11,7 +11,8 @@ We initialize the app with the following:
 
 You should restart to observe red/blue winning 
 
-## Running
+## Run
+Make sure to install dependencies via `npm start`<br>
 
-`npm start` runs the app in the development mode.<br>
+Use `npm start` to run the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
